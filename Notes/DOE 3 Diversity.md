@@ -35,7 +35,7 @@
 
 ---
 ## MP 2 - Diversity And the Organization
-
+General Welsh video
 Group Exercise
 
 
@@ -49,7 +49,7 @@ Group Exercise
     - Changing the organization to better meet diversity goals.
     - Goal is to create an environment of accepance and combat potential friction in the wider Air Force community.
 
-- **Mainstream Diversity**
+- **Main    stream Diversity**
     - Incorporating diversity into every effort, process, and procedure.
     - Making diveristy more common.
     - Family days catered to different types of diversity.
