@@ -51,3 +51,5 @@ Delivery methods:
     : A more formal method that is given time to be prepared and researched.
  - Manuscript
     : A briefing that requires every word to be exactly prepared. Literally reading the slide like a nerd.
+
+---
